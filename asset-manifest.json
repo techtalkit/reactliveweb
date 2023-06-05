@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.087cdf7e.css",
+    "main.js": "/my-app/static/js/main.8c742536.js",
+    "static/js/787.0ba78865.chunk.js": "/my-app/static/js/787.0ba78865.chunk.js",
+    "static/media/hero-img.PNG": "/my-app/static/media/hero-img.dbd1875086f3aa7b731a.PNG",
+    "static/media/pic2.png": "/my-app/static/media/pic2.b13d71619f1a21fb2b46.png",
+    "static/media/digital.png": "/my-app/static/media/digital.3c9b5c1e303000040e6b.png",
+    "static/media/app.png": "/my-app/static/media/app.5427e76e125f31096b02.png",
+    "static/media/s1.PNG": "/my-app/static/media/s1.0c0d6dec1b8ec258395b.PNG",
+    "static/media/android.png": "/my-app/static/media/android.c13ce2d0f54ac55d6f42.png",
+    "static/media/marketing.png": "/my-app/static/media/marketing.157dafccdc7522bb450a.png",
+    "static/media/software.png": "/my-app/static/media/software.3b8551d4d63abce89f1c.png",
+    "index.html": "/my-app/index.html",
+    "main.087cdf7e.css.map": "/my-app/static/css/main.087cdf7e.css.map",
+    "main.8c742536.js.map": "/my-app/static/js/main.8c742536.js.map",
+    "787.0ba78865.chunk.js.map": "/my-app/static/js/787.0ba78865.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.087cdf7e.css",
+    "static/js/main.8c742536.js"
+  ]
+}
